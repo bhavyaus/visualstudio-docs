@@ -78,3 +78,10 @@ landingContent:
         links:
           - text: Get started with UWP in Visual Studio
             url: /windows/uwp/get-started/get-set-up
+  # Card
+  - title: XAML Preview Features
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: MVVM Support 
+            url: /windows/uwp/get-started/
